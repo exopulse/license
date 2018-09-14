@@ -1,5 +1,5 @@
 # exopulse license package
-Goalng support for writing and reading license files.
+Golang support for writing and reading license files.
 
 [![CircleCI](https://circleci.com/gh/exopulse/license.svg?style=svg)](https://circleci.com/gh/exopulse/license)
 [![Build Status](https://travis-ci.org/exopulse/license.svg?branch=master)](https://travis-ci.org/exopulse/license)
