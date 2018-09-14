@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"exobyte.org/pulse/files"
-	"exobyte.org/pulse/license"
+	"github.com/exopulse/files"
+	"github.com/exopulse/license"
 )
 
 func decode(infile, outfile, publicKeyFile string) error {

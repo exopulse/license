@@ -5,8 +5,8 @@ import (
 
 	"io/ioutil"
 
-	"exobyte.org/pulse/files"
-	"exobyte.org/pulse/license"
+	"github.com/exopulse/files"
+	"github.com/exopulse/license"
 )
 
 func encode(infile, outfile, privateKeyFile string) error {
