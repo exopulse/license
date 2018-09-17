@@ -14,8 +14,9 @@ var (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "liccoder",
-	Short: "License coder and decoder.",
+	Use:     "liccoder",
+	Short:   "License coder and decoder.",
+	Version: "1.0.0",
 }
 
 var encodeCmd = &cobra.Command{
